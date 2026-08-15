@@ -1,0 +1,7 @@
+{
+  "dependencies": ["."],
+  "graphs": {
+    "facturation_case": "./chat.py:get_agent"
+  },
+  "env": "../.env"
+}
